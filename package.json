@@ -2,7 +2,7 @@
   "name": "notes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rogeh5.github.io/myFirstReactProject",
+  "homepage": "http://rogeh5.github.io/my-first-project",
   "dependencies": {
     "react": "17.0.0",
     "react-dom": "17.0.0",
